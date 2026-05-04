@@ -1,4 +1,5 @@
-## Hi there, I'm Allison! 👋 
+# Hi there, I'm Allison! 👋 
+![Open to Work](https://img.shields.io/badge/Status-Seeking_AI_Internships-green?style=flat-square)
 
 I am a **Software AI Engineer** focused on Full-Stack Development and the practical applications of Artificial Intelligence. I enjoy bridging the gap between data-driven insights and functional web applications!
 
@@ -30,10 +31,8 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
   <img src="https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Django_REST_Framework-A9225C?style=for-the-badge&logo=django&logoColor=white" alt="DRF" />
-  <img src="https://img.shields.io/badge/CRUD_Operations-4CAF50?style=for-the-badge&logo=data-configuration&logoColor=white" alt="CRUD" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" alt="Seaborn" />
 </p>
@@ -60,15 +59,11 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Activity & Coding Metrics
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
----
 
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
@@ -76,14 +71,14 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 🎓 Current Focus
-- 🔭 **Studying:** Certificate in Artificial Intelligence Engineering at Flatiron (Remote)
-- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part time)
-- 💻 **Building:** Full-stack applications with React and Python
-- 💻 **Building:** AI Engineering Projects for Research, Development, and Studying
-- 🧪 **Exploring:** Advanced Mathematics and Machine Learning models
+- 🚀 **Seeking:** **AI / Machine Learning Internship Roles** (Summer/Fall 2026)
+- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Part-time)
+- 🔭 **Studying:** AI Engineering Certificate at Flatiron School
+- 💻 **Building:** Full-stack AI applications and RAG pipelines using ChromaDB
+- 🧪 **Exploring:** Machine Learning models and advanced AI architecture
 
 ---
 
 ### 📫 How to reach me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyv/)
-<a href="https://twitter.com/AlliBuildsAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allisonvaldez" height="30" width="40" /></a>
+<a href="https://twitter.com/AlliBuildsAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
