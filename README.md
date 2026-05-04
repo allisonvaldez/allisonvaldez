@@ -115,15 +115,22 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 📊 GitHub Activity & Coding Metrics
+## 📊 GitHub Activity & Coding Metrics, Developer Metrics & Productivity Breakdown
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<details>
+<summary><strong>📊 Click to expand WakaTime Stats</strong></summary>
+
+<br>
+
 <!-- START_SECTION:waka -->
 <!-- END_SECTION:waka -->
+
+</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg" alt="GitHub Metrics" />
