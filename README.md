@@ -72,11 +72,12 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 🎓 Current Focus
-- 🚀 **Seeking:** **AI / Machine Learning Internship Roles** (Summer/Fall 2026)
-- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Part-time)
-- 🔭 **Studying:** AI Engineering Certificate at Flatiron School
-- 💻 **Building:** Full-stack AI applications and RAG pipelines using ChromaDB
-- 🧪 **Exploring:** Machine Learning models and advanced AI architecture
+- 🚀 **Seeking:** **AI Engineering Internships & Apprenticeshis Roles**
+- 🚀 **Seeking:** **Machine Learning Internships & Apprenticeship Roles**
+- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part-time)
+- 🔭 **Studying:** AI Engineering Certificate at Flatiron School (Remote)
+- 💻 **Building:** Full-stack AI Applications
+- 🧪 **Exploring:** **Machine Learning models and advanced AI architecture**
 
 ---
 
