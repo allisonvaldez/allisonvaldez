@@ -1,7 +1,10 @@
 name: Metrics
 on:
+  # Schedule updates daily
   schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -11,12 +14,25 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: allisonvaldez
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Los_Angeles
+          filename: github-metrics.svg
+          committer_branch: main
+          
+          # Coding Habits Plugin
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          config_timezone: America/Los_Angeles
-          filename: github-metrics.svg
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+
+          # Wakatime Plugin (Since you have the secret!)
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_sections: time, projects, languages, editors
