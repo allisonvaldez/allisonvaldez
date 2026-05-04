@@ -69,8 +69,8 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 🎓 Current Focus
-- 🔭 **Studying:** Certificate in Artificial Intelligence Engineering at Flatiron
-- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University
+- 🔭 **Studying:** Certificate in Artificial Intelligence Engineering at Flatiron (Remote)
+- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part time)
 - 💻 **Building:** Full-stack applications with React and Python
 - 💻 **Building:** AI Engineering Projects for Research, Development, and Studying
 - 🧪 **Exploring:** Advanced Mathematics and Machine Learning models
