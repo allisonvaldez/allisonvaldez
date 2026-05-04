@@ -26,25 +26,34 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <a href="https://github.com/allisonvaldez/Project-Flake">
-        <img src="https://skillicons.dev/icons?i=react,fastapi,postgres" width="120" /><br>
-        <strong>❄️ Project Flake</strong>
+      <a href="https://github.com/allisonvaldez/AI-Chatbot">
+        <img src="https://skillicons.dev/icons?i=python,openai,flask" width="120" /><br>
+        <strong>🤖 AI Chatbot</strong>
       </a>
-      <p>Full-stack AI-powered platform using FastAPI, React, and PostgreSQL.</p>
+      <p>Conversational AI chatbot built with Python, Flask, and LLM APIs.</p>
     </td>
     <td align="center" width="33%">
-      <a href="https://github.com/allisonvaldez/Crypto-Tracker">
-        <img src="https://skillicons.dev/icons?i=nodejs,mongodb" width="120" /><br>
-        <strong>💰 Crypto Tracker</strong>
-      </a>
-      <p>Real-time crypto dashboard reducing API calls by 60%.</p>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://github.com/allisonvaldez/Visualizing-COVID">
+      <a href="https://github.com/allisonvaldez/Visualizing_Covid">
         <img src="https://skillicons.dev/icons?i=python,matplotlib" width="120" /><br>
-        <strong>📈 COVID Data Visualization</strong>
+        <strong>📈 Visualizing COVID</strong>
       </a>
-      <p>Interactive data visualizations with Python, Pandas, and Matplotlib.</p>
+      <p>Data analysis & visualizations using Pandas and Matplotlib.</p>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/allisonvaldez/WeatherApp">
+        <img src="https://skillicons.dev/icons?i=react,nodejs" width="120" /><br>
+        <strong>⛅ Weather App</strong>
+      </a>
+      <p>Full-stack weather dashboard using React, Node.js, and APIs.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/allisonvaldez/Earthquake-Explorer">
+        <img src="https://skillicons.dev/icons?i=nodejs,js" width="120" /><br>
+        <strong>🌎 Earthquake Explorer</strong>
+      </a>
+      <p>Interactive map visualizing real-time seismic activity.</p>
     </td>
   </tr>
 </table>
