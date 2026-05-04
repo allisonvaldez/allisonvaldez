@@ -61,6 +61,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 📊 GitHub Activity & Coding Metrics
+
 <p align="center">
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" />
@@ -70,10 +71,11 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 <!-- END_SECTION:waka -->
 
 <p align="center">
-  <img src="https://github.com/allisonvaldez/allisonvaldez/blob/main/github-metrics.svg" alt="GitHub Habits" />
+  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 ---
+
 
 ### 🎓 Current Focus
 - 🚀 **Seeking:** **AI Engineering Internships & Apprenticeship Roles**
