@@ -1,5 +1,6 @@
 # Hi there, I'm Allison! 👋 
 ![Open to Work](https://img.shields.io/badge/Status-Seeking_AI_Internships-green?style=flat-square)
+![Open to Work](https://img.shields.io/badge/Status-Seeking_Software_Engineering_Internships_And_Apprenticeships-green?style=flat-square)
 
 I am a **Software AI Engineer** focused on Full-Stack Development and the practical applications of Artificial Intelligence. I enjoy bridging the gap between data-driven insights and functional web applications!
 
