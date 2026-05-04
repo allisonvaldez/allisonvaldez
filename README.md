@@ -68,6 +68,13 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
+---
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+---
+
 ### 🎓 Current Focus
 - 🔭 **Studying:** Certificate in Artificial Intelligence Engineering at Flatiron (Remote)
 - 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part time)
@@ -78,4 +85,5 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allisonvaldez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyv/)
+<a href="https://twitter.com/AlliBuildsAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="allisonvaldez" height="30" width="40" /></a>
