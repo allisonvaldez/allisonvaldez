@@ -131,7 +131,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ### 📈 Yearly & Daily Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allisonvaldez&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=allisonvaldez&theme=tokyo-night" />
 </p>
 
 ### 🔥 Coding Streaks (Daily Breakdown)
