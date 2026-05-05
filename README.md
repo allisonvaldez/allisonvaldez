@@ -140,9 +140,10 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### 📆 Daily Contributions Breakdown
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=allisonvaldez&theme=tokyonight" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
+  </p>
+
 
 ---
 
