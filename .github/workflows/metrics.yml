@@ -55,8 +55,3 @@ jobs:
 
           # 🌟 Traffic (Profile Views)
           plugin_traffic: yes
-
-          # 🌟 Contributors (Optional but cool)
-          plugin_contributors: yes
-          plugin_contributors_base: all
-          plugin_contributors_sections: contributors
