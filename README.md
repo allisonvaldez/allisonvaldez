@@ -122,16 +122,10 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
-<details>
-<summary><strong>📊 Click to expand WakaTime Stats</strong></summary>
-
-<br>
-
 <p align="center">
   <img src="https://wakatime.com/share/@e569d0dd-8ef9-4f90-8cfb-08ffd4e79f77/f96e08e2-8c54-4766-8394-982537ebc156.svg" alt="WakaTime stats" />
 </p>
 
-</details>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg" alt="GitHub Metrics" />
