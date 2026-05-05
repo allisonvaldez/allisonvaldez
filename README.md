@@ -139,8 +139,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
 </p>
 
----
-
 ### 🧩 Summary Card (Weekly + Time-of-Day Approximation)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
