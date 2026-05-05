@@ -1,4 +1,5 @@
 <!-- Animated Header -->
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;Turning+Ideas+Into+Intelligent+Systems" />
 </h1>
@@ -15,6 +16,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ## 🐍 My Contribution Snake
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/output/github-snake.svg" alt="snake animation" />
 </p>
@@ -61,6 +63,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 # 🏆 GitHub Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=allisonvaldez&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
@@ -70,6 +73,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend & Design
+
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
@@ -81,6 +85,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### ⚙️ Backend & AI Engineering
+
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -94,6 +99,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### 📊 Data & Databases
+
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge&logo=chromadb&logoColor=black" />
@@ -104,6 +110,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### 🛠️ DevOps & Tools
+
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -115,20 +122,34 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 📊 GitHub Activity & Coding Metrics, Developer Metrics & Productivity Breakdown
+## 📊 GitHub Activity & Productivity Breakdown
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
+### 📈 Yearly & Daily Contribution Activity
 <p align="center">
-  <img src="https://wakatime.com/share/@e569d0dd-8ef9-4f90-8cfb-08ffd4e79f77/f96e08e2-8c54-4766-8394-982537ebc156.svg" alt="WakaTime stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=allisonvaldez&theme=tokyo-night" />
+</p>
+
+### 🔥 Coding Streaks (Daily Breakdown)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
+</p>
+
+---
+
+### 🧩 Summary Card (Weekly + Time-of-Day Approximation)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🎓 Current Focus
+
 - 🚀 **Seeking:** **AI Engineering Internships & Apprenticeship Roles**
 - 🚀 **Seeking:** **Machine Learning Internships & Apprenticeship Roles**
 - 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part-time)
@@ -139,5 +160,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ---
 
 ### 📫 How to reach me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyv/)
 <a href="https://twitter.com/AlliBuildsAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
