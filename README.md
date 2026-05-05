@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=00C0FF&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;Turning+Ideas+Into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;Turning+Ideas+Into+Intelligent+Systems" />
 </h1>
 
 <p align="center">
