@@ -126,9 +126,8 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://wakatime.com/share/@e569d0dd-8ef9-4f90-8cfb-08ffd4e79f77/f96e08e2-8c54-4766-8394-982537ebc156.svg" alt="WakaTime stats" />
 </p>
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg?timestamp=<?= time() ?>" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg?refresh=999999" alt="GitHub Metrics" />
 </p>
 
 ---
@@ -136,7 +135,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ### 🎓 Current Focus
 - 🚀 **Seeking:** **AI Engineering Internships & Apprenticeship Roles**
 - 🚀 **Seeking:** **Machine Learning Internships & Apprenticeship Roles**
-- 🔭 **Studying:** M.S. in Artificial Artificial Intelligence at Johns Hopkins University (Remote, Part-time)
+- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part-time)
 - 🔭 **Studying:** AI Engineering Certificate at Flatiron School (Remote)
 - 💻 **Building:** Full-stack AI Applications
 - 🧪 **Exploring:** **Machine Learning models and advanced AI architecture**
