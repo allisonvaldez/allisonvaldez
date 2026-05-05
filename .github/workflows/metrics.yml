@@ -17,7 +17,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Los_Angeles
-
           filename: github-metrics.svg
           committer_branch: main
 
@@ -41,17 +40,18 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          # 🌟 Lines of Code Chart
-          plugin_lines: yes
+          # 🌟 Achievements (Badges)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
 
           # 🌟 Stars, Followers, Repo Stats
           plugin_followup: yes
           plugin_followup_sections: repositories, user
 
-          # 🌟 Achievements (Trophies-like)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: C
-
-          # 🌟 Traffic (Profile Views)
+          # 🌟 Traffic (Profile Views & Clones)
           plugin_traffic: yes
+
+          # ❌ REMOVED — these were freezing your workflow
+          plugin_contributors: no
+          plugin_lines: no
