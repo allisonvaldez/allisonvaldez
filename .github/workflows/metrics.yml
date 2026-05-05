@@ -25,3 +25,12 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
+
+          # ⭐ ADD THIS ⭐
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+          plugin_wakatime_user: current
+          plugin_wakatime_sections: time, languages, editors, os, projects, activity, code
+          plugin_wakatime_days: 30
+          plugin_wakatime_limit: 5
+          plugin_wakatime_details: yes
