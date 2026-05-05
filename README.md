@@ -127,8 +127,9 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 <br>
 
-<!-- START_SECTION:waka -->
-<!-- END_SECTION:waka -->
+<p align="center">
+  <img src="https://gist.githubusercontent.com/allisonvaldez/d267c5f706e26ceadbcb3b7c3aacbc9f/raw/wakatime.svg" />
+</p>
 
 </details>
 
