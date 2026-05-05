@@ -126,11 +126,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://wakatime.com/share/@e569d0dd-8ef9-4f90-8cfb-08ffd4e79f77/f96e08e2-8c54-4766-8394-982537ebc156.svg" alt="WakaTime stats" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg?cb=202605051245" />
-
-</p>
-
 ---
 
 ### 🎓 Current Focus
