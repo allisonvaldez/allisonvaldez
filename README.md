@@ -124,24 +124,24 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ## 📊 GitHub Activity & Productivity Breakdown
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=allisonvaldez&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=allisonvaldez&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-### 📈 Yearly & Daily Contribution Activity
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=allisonvaldez&theme=tokyo-night" />
-</p>
-
 ### 🔥 Coding Streaks (Daily Breakdown)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
 </p>
 
-### 🧩 Summary Card (Weekly + Time-of-Day Approximation)
+### 🧩 Full Year + Activity Overview (Includes Time-of-Day + Weekly Patterns)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
+</p>
+
+### ⏰ Productivity by Time of Day
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonvaldez&theme=tokyonight&utcOffset=-8" />
+</p>
+
+### 📆 Daily Contributions Breakdown
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=allisonvaldez&theme=tokyonight" />
 </p>
 
 ---
