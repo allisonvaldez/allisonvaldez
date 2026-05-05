@@ -128,7 +128,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg" alt="GitHub Metrics" />
+  <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/main/github-metrics.svg?refresh=1" alt="GitHub Metrics" />
 </p>
 
 ---
