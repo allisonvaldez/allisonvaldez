@@ -126,35 +126,25 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
 </p>
 
----
-
 ### 🧩 Full Year + Daily Overview (Main Summary Card)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
 </p>
-
----
 
 ### ⏰ Productivity by Time of Day (Hourly Approximation)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonvaldez&theme=tokyonight&utcOffset=-8" />
 </p>
 
----
-
 ### 📈 Yearly Commit Stats (Total Contributions + Trends)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allisonvaldez&theme=tokyonight" />
 </p>
 
----
-
 ### 🧠 Languages Used (By Commit Count)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allisonvaldez&theme=tokyonight" />
 </p>
-
----
 
 ### 🧠 Languages Used (By Repositories)
 <p align="center">
@@ -165,9 +155,10 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ### 🎓 Current Focus
 
-- 🚀 **Seeking:** AI Engineering Internships & Apprenticeship Roles  
-- 🚀 **Seeking:** Machine Learning Internships & Apprenticeship Roles  
-- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University  
+- 🚀 **Seeking:**AI Engineering Internships & Apprenticeship Roles**
+- 🚀 **Seeking:**Machine Learning Internships & Apprenticeship Roles** 
+- 🚀 **Seeking:**Software Engineering Internships & Apprenticeship Roles**   
+- 🔭 **Studying:** M.S. in Artificial Intelligence  
 - 🔭 **Studying:** AI Engineering Certificate at Flatiron School  
 - 💻 **Building:** Full-stack AI Applications  
 - 🧪 **Exploring:** Machine Learning models and advanced AI architecture  
