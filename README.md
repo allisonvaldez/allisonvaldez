@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;Turning+Ideas+Into+Intelligent+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;I+get+the+job+done+right+the+first+time.;I+show+up%2C+I+consistently+work%2C+and+consistently+deliver." />
 </h1>
 
 <p align="center">
@@ -137,20 +137,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ### ⏰ Productivity by Time of Day (Hourly Approximation)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonvaldez&theme=tokyonight&utcOffset=-8" />
-</p>
-
----
-
-### 📆 Daily Contributions Breakdown (Day-of-Week Activity)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=allisonvaldez&theme=tokyonight" />
-</p>
-
----
-
-### 📅 Weekly Coding Activity (Week-by-Week Productivity)
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-week?username=allisonvaldez&theme=tokyonight" />
 </p>
 
 ---
