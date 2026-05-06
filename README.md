@@ -16,7 +16,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 🐍 My Contribution Snake
+## My Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/allisonvaldez/allisonvaldez/output/github-snake.svg" alt="snake animation" />
@@ -24,7 +24,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-# 🌟 Featured Projects (Showcase Grid)
+# Featured Projects (Showcase Grid)
 
 <table align="center">
   <tr>
@@ -63,7 +63,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=allisonvaldez&theme=tokyonight&no-frame=true&row=1&column=6" />
@@ -71,9 +71,9 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-### 🌐 Frontend & Design
+### Frontend & Design
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
@@ -84,7 +84,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
 </p>
 
-### ⚙️ Backend & AI Engineering
+### Backend & AI Engineering
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -97,7 +97,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
 </p>
 
-### 📊 Data & Databases
+### Data & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge&logo=chromadb&logoColor=black" />
@@ -107,7 +107,7 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-### 🛠️ DevOps & Tools
+### DevOps & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -119,53 +119,53 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 📊 GitHub Activity & Complete Productivity Analytics
+## GitHub Activity & Complete Productivity Analytics
 
-### 🔥 Coding Streaks (Daily Breakdown)
+### Coding Streaks (Daily Breakdown)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
 </p>
 
-### 🧩 Full Year + Daily Overview (Main Summary Card)
+### Full Year + Daily Overview (Main Summary Card)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
 </p>
 
-### ⏰ Productivity by Time of Day (Hourly Approximation)
+### Productivity by Time of Day (Hourly Approximation)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonvaldez&theme=tokyonight&utcOffset=-8" />
 </p>
 
-### 📈 Yearly Commit Stats (Total Contributions + Trends)
+### Yearly Commit Stats (Total Contributions + Trends)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allisonvaldez&theme=tokyonight" />
 </p>
 
-### 🧠 Languages Used (By Commit Count)
+### Languages Used (By Commit Count)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allisonvaldez&theme=tokyonight" />
 </p>
 
-### 🧠 Languages Used (By Repositories)
+### Languages Used (By Repositories)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allisonvaldez&theme=tokyonight" />
 </p>
 
 ---
 
-### 🎓 Current Focus
+### Current Focus
 
-- 🚀 **Seeking: **AI Engineering Internships & Apprenticeship Roles**
-- 🚀 **Seeking: **Machine Learning Internships & Apprenticeship Roles** 
-- 🚀 **Seeking: **Software Engineering Internships & Apprenticeship Roles**   
-- 🔭 **Studying:** M.S. in Artificial Intelligence  
-- 🔭 **Studying:** AI Engineering Certificate at Flatiron School  
-- 💻 **Building:** Full-stack AI Applications  
-- 🧪 **Exploring:** Machine Learning models and advanced AI architecture  
+- **Seeking: **AI Engineering Internships & Apprenticeship Roles**
+- **Seeking: **Machine Learning Internships & Apprenticeship Roles** 
+- **Seeking: **Software Engineering Internships & Apprenticeship Roles**   
+- **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University  
+- **Studying:** AI Engineering Certificate at Flatiron School  
+- **Building:** Full-stack AI Applications  
+- **Exploring:** Machine Learning models and advanced AI architecture  
 
 ---
 
-### 📫 How to reach me:
+### How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alyv/)
 <a href="https://twitter.com/AlliBuildsAI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
