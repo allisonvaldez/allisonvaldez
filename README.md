@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;I+take+pride+in+getting+the+job+done+right.;I+show+up%2C+I+work+hard%2C+and+I+deliver." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;Turning+Ideas+Into+Intelligent+Systems" />
 </h1>
 
 <p align="center">
@@ -73,7 +73,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 ## 🛠️ Tech Stack & Tools
 
 ### 🌐 Frontend & Design
-
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
@@ -85,7 +84,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### ⚙️ Backend & AI Engineering
-
 <p align="left">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -99,7 +97,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### 📊 Data & Databases
-
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/ChromaDB-white?style=for-the-badge&logo=chromadb&logoColor=black" />
@@ -110,7 +107,6 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 </p>
 
 ### 🛠️ DevOps & Tools
-
 <p align="left">
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -122,39 +118,72 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ---
 
-## 📊 GitHub Activity & Productivity Breakdown
+## 📊 GitHub Activity & Complete Productivity Analytics
 
 ### 🔥 Coding Streaks (Daily Breakdown)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=allisonvaldez&theme=tokyonight" />
 </p>
 
-### 🧩 Full Year + Activity Overview (Includes Time-of-Day + Weekly Patterns)
+---
+
+### 🧩 Full Year + Daily Overview (Main Summary Card)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
 </p>
 
-### ⏰ Productivity by Time of Day
+---
+
+### ⏰ Productivity by Time of Day (Hourly Approximation)
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allisonvaldez&theme=tokyonight&utcOffset=-8" />
 </p>
 
-### 📆 Daily Contributions Breakdown
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allisonvaldez&theme=tokyonight" />
-  </p>
+---
 
+### 📆 Daily Contributions Breakdown (Day-of-Week Activity)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-day?username=allisonvaldez&theme=tokyonight" />
+</p>
+
+---
+
+### 📅 Weekly Coding Activity (Week-by-Week Productivity)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-per-week?username=allisonvaldez&theme=tokyonight" />
+</p>
+
+---
+
+### 📈 Yearly Commit Stats (Total Contributions + Trends)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allisonvaldez&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Languages Used (By Commit Count)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allisonvaldez&theme=tokyonight" />
+</p>
+
+---
+
+### 🧠 Languages Used (By Repositories)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allisonvaldez&theme=tokyonight" />
+</p>
 
 ---
 
 ### 🎓 Current Focus
 
-- 🚀 **Seeking:** **AI Engineering Internships & Apprenticeship Roles**
-- 🚀 **Seeking:** **Machine Learning Internships & Apprenticeship Roles**
-- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University (Remote, Part-time)
-- 🔭 **Studying:** AI Engineering Certificate at Flatiron School (Remote)
-- 💻 **Building:** Full-stack AI Applications
-- 🧪 **Exploring:** **Machine Learning models and advanced AI architecture**
+- 🚀 **Seeking:** AI Engineering Internships & Apprenticeship Roles  
+- 🚀 **Seeking:** Machine Learning Internships & Apprenticeship Roles  
+- 🔭 **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University  
+- 🔭 **Studying:** AI Engineering Certificate at Flatiron School  
+- 💻 **Building:** Full-stack AI Applications  
+- 🧪 **Exploring:** Machine Learning models and advanced AI architecture  
 
 ---
 
