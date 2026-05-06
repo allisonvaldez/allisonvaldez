@@ -155,9 +155,9 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ### 🎓 Current Focus
 
-- 🚀 **Seeking:**AI Engineering Internships & Apprenticeship Roles**
-- 🚀 **Seeking:**Machine Learning Internships & Apprenticeship Roles** 
-- 🚀 **Seeking:**Software Engineering Internships & Apprenticeship Roles**   
+- 🚀 **Seeking: **AI Engineering Internships & Apprenticeship Roles**
+- 🚀 **Seeking: **Machine Learning Internships & Apprenticeship Roles** 
+- 🚀 **Seeking: **Software Engineering Internships & Apprenticeship Roles**   
 - 🔭 **Studying:** M.S. in Artificial Intelligence  
 - 🔭 **Studying:** AI Engineering Certificate at Flatiron School  
 - 💻 **Building:** Full-stack AI Applications  
