@@ -1,7 +1,7 @@
 <!-- Animated Header -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+👋;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;I+get+the+job+done+right.;Accurately+,+the+first+time.;I+show+up+consistently.;I+work+hard+consistently.;I+deliver+consistently." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=800&color=000000&center=true&vCenter=true&width=900&lines=Hi+there%2C+I'm+Allison!+;AI+Engineer+%7C+Full-Stack+Developer+%7C+ML+Builder;I+finish+the+job+,+right+,+the+first+time.;I+show+up+consistently.;I+work+hard+consistently.;I+deliver+consistently." />
 
 </h1>
 
@@ -155,11 +155,11 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 
 ### Current Focus
 
-- **Seeking: **AI Engineering Internships & Apprenticeship Roles**
-- **Seeking: **Machine Learning Internships & Apprenticeship Roles** 
-- **Seeking: **Software Engineering Internships & Apprenticeship Roles**   
-- **Studying:** M.S. in Artificial Intelligence at Johns Hopkins University  
-- **Studying:** AI Engineering Certificate at Flatiron School  
+- **Seeking:** **AI Engineering Internships & Apprenticeship Roles**
+- **Seeking:** **Machine Learning Internships & Apprenticeship Roles** 
+- **Seeking:** **Software Engineering Internships & Apprenticeship Roles**   
+- Studying: M.S. in Artificial Intelligence at Johns Hopkins University  
+- Studying:AI Engineering Certificate at Flatiron School  
 - **Building:** Full-stack AI Applications  
 - **Exploring:** Machine Learning models and advanced AI architecture  
 
