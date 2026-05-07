@@ -160,8 +160,8 @@ I am a **Software AI Engineer** focused on Full-Stack Development and the practi
 - **Seeking:** **Software Engineering Internships & Apprenticeship Roles**   
 - Studying: M.S. in Artificial Intelligence at Johns Hopkins University  
 - Studying:AI Engineering Certificate at Flatiron School  
-- **Building:** Full-stack AI Applications  
-- **Exploring:** Machine Learning models and advanced AI architecture  
+- Building: Full-stack AI Applications  
+- Exploring: Machine Learning models and advanced AI architecture  
 
 ---
 
